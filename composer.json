@@ -46,7 +46,7 @@
   "repositories": [
     {
       "type": "git",
-      "url": "https://github.com/mechelon/RFC6455"
+      "url": "https://github.com/beyondcode/RFC6455"
     }
   ]
 }
